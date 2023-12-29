@@ -1,6 +1,6 @@
 # Awesome System Design Resources
 This repository contains System Design resources which are useful to learn concepts and prepare for interviews.
-
+## [System Design CheatSheet](https://systemdesign.one/system-design-interview-cheatsheet/)
 ## System Design Fundamentals
 
 - [Content Delivery Network (CDN)](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)
